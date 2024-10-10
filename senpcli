@@ -1,0 +1,5 @@
+#!/bin/bash
+
+docker run --rm -v "$PWD:/home/senpcli/Downloads" senpcli
+
+exit 0

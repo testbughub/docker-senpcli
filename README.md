@@ -1,2 +1,2 @@
 # docker-senpcli
-Senpwai CLI in docker
+Senpwai CLI in docker.

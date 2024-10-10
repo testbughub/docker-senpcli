@@ -1,5 +1,5 @@
 #!/bin/bash
 
-docker build -t senpcli:latest .
+docker build -t testbughub/senpcli:latest .
 
 exit 0
